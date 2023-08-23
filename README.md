@@ -10,7 +10,8 @@ Pivot Chart Creation: I learned how to create different types of pivot charts to
 
 Slicer Usage: I explored the use of slicers in Excel to provide interactive filtering options for the dashboard.
 
-Insights from the Project
+Insights from the Project        ![Ecommerce_Sales_Analysis](https://github.com/Radhika1102/Excel-Dashboard-Ecommerce-Sales-Analysis-Dashboard/assets/131529605/7fc0710e-2358-452b-b03a-50199dd43631)
+
 The dashboard provides the following insights:
 
 Sales and Profit Analysis: Get a comprehensive overview of sales and profit performance.
